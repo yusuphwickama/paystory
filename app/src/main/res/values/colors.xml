@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#545e75</color>
+    <color name="colorPrimaryDark">#454D60</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+
+    <color name="money">#31BC81</color>
+    <color name="date">#728087</color>
+    <color name="name">#424243</color>
+</resources>
