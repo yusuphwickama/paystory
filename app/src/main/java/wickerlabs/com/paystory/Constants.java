@@ -6,6 +6,6 @@ package wickerlabs.com.paystory;
 
 public class Constants {
 
-    public static String BASE_URL = "https://api.wickerlabs.com/v1/paystory/";
+    public static String BASE_URL = "";
 
 }
